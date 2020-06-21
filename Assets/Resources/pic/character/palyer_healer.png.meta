@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 078c2e7a130ec4848ba783674ddf2d82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4612459029423918231
+    second: palyer_healer_0
+  - first:
+      213: 6524889702513582558
+    second: palyer_healer_1
+  - first:
+      213: 1190142124033104396
+    second: palyer_healer_2
+  - first:
+      213: -5655285246610526149
+    second: palyer_healer_3
+  - first:
+      213: -5358304970471947153
+    second: palyer_healer_4
+  - first:
+      213: 2934569913754101133
+    second: palyer_healer_5
+  - first:
+      213: 4716940817623969044
+    second: palyer_healer_6
+  - first:
+      213: -1882206250390073870
+    second: palyer_healer_7
+  - first:
+      213: 5498336151758429290
+    second: palyer_healer_8
+  - first:
+      213: -6974024758695134321
+    second: palyer_healer_9
+  - first:
+      213: 6243338299535189710
+    second: palyer_healer_10
+  - first:
+      213: 3622868539166699448
+    second: palyer_healer_11
+  - first:
+      213: 5488913127485904799
+    second: palyer_healer_12
+  - first:
+      213: -3118108121605892871
+    second: palyer_healer_13
+  - first:
+      213: 251276164135076354
+    second: palyer_healer_14
+  - first:
+      213: -334178982183737035
+    second: palyer_healer_15
+  - first:
+      213: -5492032433190500810
+    second: palyer_healer_16
+  - first:
+      213: -5230571913239727986
+    second: palyer_healer_17
+  - first:
+      213: -8872521922434299025
+    second: palyer_healer_18
+  - first:
+      213: 871457672401994444
+    second: palyer_healer_19
+  - first:
+      213: -4221080131323992505
+    second: palyer_healer_20
+  - first:
+      213: 6164242459913718971
+    second: palyer_healer_21
+  - first:
+      213: -7000416273719602381
+    second: palyer_healer_22
+  - first:
+      213: -4078710663766906837
+    second: palyer_healer_23
+  - first:
+      213: 1943719857764759591
+    second: palyer_healer_24
+  - first:
+      213: -8522305864818113288
+    second: palyer_healer_25
+  - first:
+      213: 1098159869162636264
+    second: palyer_healer_26
+  - first:
+      213: 4598651334329193999
+    second: palyer_healer_27
+  - first:
+      213: 7477662424482966187
+    second: palyer_healer_28
+  - first:
+      213: 5128556104148796447
+    second: palyer_healer_29
+  - first:
+      213: -1866576182170562427
+    second: palyer_healer_30
+  - first:
+      213: 2472133411186694170
+    second: palyer_healer_31
+  - first:
+      213: 3834423872880066499
+    second: palyer_healer_32
+  - first:
+      213: 2969259807508525198
+    second: palyer_healer_33
+  - first:
+      213: 876939990644605404
+    second: palyer_healer_34
+  - first:
+      213: 8428761056879185023
+    second: palyer_healer_35
+  - first:
+      213: 3557033674863941770
+    second: palyer_healer_36
+  - first:
+      213: -5013015773921605890
+    second: palyer_healer_37
+  - first:
+      213: 2896879304349454022
+    second: palyer_healer_38
+  - first:
+      213: 6164757219900396341
+    second: palyer_healer_39
+  - first:
+      213: 7116445072908506416
+    second: palyer_healer_40
+  - first:
+      213: -8053264257086862336
+    second: palyer_healer_41
+  - first:
+      213: -1621408285306027897
+    second: palyer_healer_42
+  - first:
+      213: 742433393123155630
+    second: palyer_healer_43
+  - first:
+      213: 1825308289214108756
+    second: palyer_healer_44
+  - first:
+      213: -8525780259284338301
+    second: palyer_healer_45
+  - first:
+      213: 6882880764195413362
+    second: palyer_healer_46
+  - first:
+      213: 6082304667494672642
+    second: palyer_healer_47
+  - first:
+      213: -8686122681526402454
+    second: palyer_healer_48
+  - first:
+      213: 6055389219741932564
+    second: palyer_healer_49
+  - first:
+      213: 4126041214464967720
+    second: palyer_healer_50
+  - first:
+      213: 3931937497861178927
+    second: palyer_healer_51
+  - first:
+      213: -7497028125616225139
+    second: palyer_healer_52
+  - first:
+      213: -3849409784296694215
+    second: palyer_healer_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: palyer_healer_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0bd5ac0fb20040800000000000000
+      internalID: 4612459029423918231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12de43d901d8a50800000000000000
+      internalID: 6524889702513582558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad837c4fb348010800000000000000
+      internalID: 1190142124033104396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b54cf7046481b0800000000000000
+      internalID: -5655285246610526149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644fc4d40a73a5b0800000000000000
+      internalID: -5358304970471947153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85acddd9cfa9b820800000000000000
+      internalID: 2934569913754101133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6405aea0f57140800000000000000
+      internalID: 4716940817623969044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdca7b336f01e5e0800000000000000
+      internalID: -1882206250390073870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 320
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdf3d39930e4c40800000000000000
+      internalID: 5498336151758429290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b72339e69473f90800000000000000
+      internalID: -6974024758695134321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6e264da1bc4a650800000000000000
+      internalID: 6243338299535189710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 256
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf28f8ddb3074230800000000000000
+      internalID: 3622868539166699448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 256
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9796ce68698c2c40800000000000000
+      internalID: 5488913127485904799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f49b601f214ab4d0800000000000000
+      internalID: -3118108121605892871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024bc70756bc7300800000000000000
+      internalID: 251276164135076354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539698b7cf1cc5bf0800000000000000
+      internalID: -334178982183737035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63681cc999168c3b0800000000000000
+      internalID: -5492032433190500810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f533ce864967b0800000000000000
+      internalID: -5230571913239727986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b0077f1587ed480800000000000000
+      internalID: -8872521922434299025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 192
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24f48c22a081c00800000000000000
+      internalID: 871457672401994444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74669fb1cf5bb65c0800000000000000
+      internalID: -4221080131323992505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc89849bd9cb8550800000000000000
+      internalID: 6164242459913718971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 192
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33354152d7689de90800000000000000
+      internalID: -7000416273719602381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 192
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286390e2428567c0800000000000000
+      internalID: -4078710663766906837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f0f099ea79fa10800000000000000
+      internalID: 1943719857764759591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c94418ffaab980800000000000000
+      internalID: -8522305864818113288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 192
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3470c25927d3f00800000000000000
+      internalID: 1098159869162636264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06519c1601b1df30800000000000000
+      internalID: 4598651334329193999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baae7915b5ef5c760800000000000000
+      internalID: 7477662424482966187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14437eba9a4c2740800000000000000
+      internalID: 5128556104148796447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d4831ad69816e0800000000000000
+      internalID: -1866576182170562427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1858235d38ce4220800000000000000
+      internalID: 2472133411186694170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3b4d523c963530800000000000000
+      internalID: 3834423872880066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f368201ee43920800000000000000
+      internalID: 2969259807508525198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_34
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1c4b776448b2c00800000000000000
+      internalID: 876939990644605404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 128
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0ee31689f8f470800000000000000
+      internalID: 8428761056879185023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881e54084f1d5130800000000000000
+      internalID: 3557033674863941770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef609f5b6b03e6ab0800000000000000
+      internalID: -5013015773921605890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0ee40168c33820800000000000000
+      internalID: 2896879304349454022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 64
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53310ba770e9d8550800000000000000
+      internalID: 6164757219900396341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355a4ad611b2c260800000000000000
+      internalID: 7116445072908506416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_41
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 64
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cccf183de0d3090800000000000000
+      internalID: -8053264257086862336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780857e41c99f79e0800000000000000
+      internalID: -1621408285306027897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_43
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae5e7acc37ad4a00800000000000000
+      internalID: 742433393123155630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454de28d73cc45910800000000000000
+      internalID: 1825308289214108756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b15496085ea980800000000000000
+      internalID: -8525780259284338301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9c358697e48f50800000000000000
+      internalID: 6882880764195413362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20968b1aedfa86450800000000000000
+      internalID: 6082304667494672642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62c7243171b47780800000000000000
+      internalID: -8686122681526402454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c927b9960190450800000000000000
+      internalID: 6055389219741932564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244ec4bf94a24930800000000000000
+      internalID: 4126041214464967720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cd0f625c019630800000000000000
+      internalID: 3931937497861178927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84488504a435f790800000000000000
+      internalID: -7497028125616225139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_healer_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e151c3236249ac0800000000000000
+      internalID: -3849409784296694215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

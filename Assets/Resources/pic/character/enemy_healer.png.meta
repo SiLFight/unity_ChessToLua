@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 96904e497a425ce4ba206ee372421286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6572418641189261860
+    second: enemy_healer_0
+  - first:
+      213: 4819864461805516659
+    second: enemy_healer_1
+  - first:
+      213: 5484222347704484879
+    second: enemy_healer_2
+  - first:
+      213: 7910826609459749283
+    second: enemy_healer_3
+  - first:
+      213: -8425223372110609702
+    second: enemy_healer_4
+  - first:
+      213: -8643439575579242298
+    second: enemy_healer_5
+  - first:
+      213: 7891625952988259181
+    second: enemy_healer_6
+  - first:
+      213: -8584458399744008169
+    second: enemy_healer_7
+  - first:
+      213: -4762020463616925748
+    second: enemy_healer_8
+  - first:
+      213: -2913797871120834216
+    second: enemy_healer_9
+  - first:
+      213: -8362663429942611350
+    second: enemy_healer_10
+  - first:
+      213: 2987918647369558932
+    second: enemy_healer_11
+  - first:
+      213: -301418993523499632
+    second: enemy_healer_12
+  - first:
+      213: 9067838637959838329
+    second: enemy_healer_13
+  - first:
+      213: 4434311897391126764
+    second: enemy_healer_14
+  - first:
+      213: -2390725107095061754
+    second: enemy_healer_15
+  - first:
+      213: 4266299235524423527
+    second: enemy_healer_16
+  - first:
+      213: -1240669417139393965
+    second: enemy_healer_17
+  - first:
+      213: 3182187351550407757
+    second: enemy_healer_18
+  - first:
+      213: 4275151806868987924
+    second: enemy_healer_19
+  - first:
+      213: 9150930856079978556
+    second: enemy_healer_20
+  - first:
+      213: -6598637847571783402
+    second: enemy_healer_21
+  - first:
+      213: -4692752810374726111
+    second: enemy_healer_22
+  - first:
+      213: 2767131733451863440
+    second: enemy_healer_23
+  - first:
+      213: -2836081212063363947
+    second: enemy_healer_24
+  - first:
+      213: -8018347031157669521
+    second: enemy_healer_25
+  - first:
+      213: -699106814415411377
+    second: enemy_healer_26
+  - first:
+      213: 8550680212410548598
+    second: enemy_healer_27
+  - first:
+      213: 5407613703952455177
+    second: enemy_healer_28
+  - first:
+      213: -7507684034817452749
+    second: enemy_healer_29
+  - first:
+      213: -1972735120101049067
+    second: enemy_healer_30
+  - first:
+      213: 6244050921065850074
+    second: enemy_healer_31
+  - first:
+      213: 5720319380099984346
+    second: enemy_healer_32
+  - first:
+      213: -6911233190403334584
+    second: enemy_healer_33
+  - first:
+      213: -7199068499720007942
+    second: enemy_healer_34
+  - first:
+      213: -471493894010228945
+    second: enemy_healer_35
+  - first:
+      213: -7271788991340584903
+    second: enemy_healer_36
+  - first:
+      213: -6642058363684821868
+    second: enemy_healer_37
+  - first:
+      213: -2168038690373016550
+    second: enemy_healer_38
+  - first:
+      213: -845860762835034362
+    second: enemy_healer_39
+  - first:
+      213: -714846977600682230
+    second: enemy_healer_40
+  - first:
+      213: -2634624906912381564
+    second: enemy_healer_41
+  - first:
+      213: -6558968092703078432
+    second: enemy_healer_42
+  - first:
+      213: 7882377592992544244
+    second: enemy_healer_43
+  - first:
+      213: -682323545742240209
+    second: enemy_healer_44
+  - first:
+      213: -2257586540883379100
+    second: enemy_healer_45
+  - first:
+      213: 6519053388303209677
+    second: enemy_healer_46
+  - first:
+      213: 2905827927859024555
+    second: enemy_healer_47
+  - first:
+      213: 3950603907679194195
+    second: enemy_healer_48
+  - first:
+      213: -917134593893251867
+    second: enemy_healer_49
+  - first:
+      213: 5478566451261073781
+    second: enemy_healer_50
+  - first:
+      213: 1755777699855922250
+    second: enemy_healer_51
+  - first:
+      213: 3651166946063112203
+    second: enemy_healer_52
+  - first:
+      213: 6376525569006490131
+    second: enemy_healer_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_healer_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 483
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422dd379eebe53b50800000000000000
+      internalID: 6572418641189261860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 483
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3777277f03993e240800000000000000
+      internalID: 4819864461805516659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 483
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044f282b2fdb1c40800000000000000
+      internalID: 5484222347704484879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 483
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16e8053e6e8cd60800000000000000
+      internalID: 7910826609459749283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 483
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad247085bf7931b80800000000000000
+      internalID: -8425223372110609702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 483
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0db0c30855c0880800000000000000
+      internalID: -8643439575579242298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 483
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636e1c1effa48d60800000000000000
+      internalID: 7891625952988259181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 483
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710e32e5190edd880800000000000000
+      internalID: -8584458399744008169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 483
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd8fc5e97e9edb0800000000000000
+      internalID: -4762020463616925748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 387
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ad80364c1097d0800000000000000
+      internalID: -2913797871120834216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 387
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fe12fae9d1fb80800000000000000
+      internalID: -8362663429942611350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 387
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b6a3add28377920800000000000000
+      internalID: 2987918647369558932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 387
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd97ab50521dbf0800000000000000
+      internalID: -301418993523499632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 387
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7820a23f67dd70800000000000000
+      internalID: 9067838637959838329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 387
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8594b3d27d98d30800000000000000
+      internalID: 4434311897391126764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 387
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbdf38e2072ded0800000000000000
+      internalID: -2390725107095061754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_16
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 387
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f24f60d80f43b30800000000000000
+      internalID: 4266299235524423527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_17
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 387
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a27bb0db148cee0800000000000000
+      internalID: -1240669417139393965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 291
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4437e94986692c20800000000000000
+      internalID: 3182187351550407757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 291
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410ab49eae3645b30800000000000000
+      internalID: 4275151806868987924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30fec04123aefe70800000000000000
+      internalID: 9150930856079978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 291
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112906b6ddec64a0800000000000000
+      internalID: -6598637847571783402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef5e6ae2effdeb0800000000000000
+      internalID: -4692752810374726111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 291
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095fb1396a3d66620800000000000000
+      internalID: 2767131733451863440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 290
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ccdc0f92734a8d0800000000000000
+      internalID: -2836081212063363947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 290
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f610a02bbdb19b090800000000000000
+      internalID: -8018347031157669521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_26
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 290
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e6ba6e064c46f0800000000000000
+      internalID: -699106814415411377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 195
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67141b8895e1aa670800000000000000
+      internalID: 8550680212410548598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 195
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906de925304bb0b40800000000000000
+      internalID: 5407613703952455177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 195
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33595d2d5295fc790800000000000000
+      internalID: -7507684034817452749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 195
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d707a3cdf6f94e0800000000000000
+      internalID: -1972735120101049067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_31
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 195
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a495fa3357a650800000000000000
+      internalID: 6244050921065850074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 195
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb64ac2b28a26f40800000000000000
+      internalID: 5720319380099984346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 194
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9e16d70e5610a0800000000000000
+      internalID: -6911233190403334584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 194
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe0c708755c71c90800000000000000
+      internalID: -7199068499720007942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 194
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f21cd2dcae479f0800000000000000
+      internalID: -471493894010228945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306c81a07a651b90800000000000000
+      internalID: -7271788991340584903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494672ffb1ba2d3a0800000000000000
+      internalID: -6642058363684821868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 99
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1463014c4499e1e0800000000000000
+      internalID: -2168038690373016550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 99
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fd6c52e16e244f0800000000000000
+      internalID: -845860762835034362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_40
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 99
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078957167a5416f0800000000000000
+      internalID: -714846977600682230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_41
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 99
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48547132b9eef6bd0800000000000000
+      internalID: -2634624906912381564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 98
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7cf45454dd9f4a0800000000000000
+      internalID: -6558968092703078432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 98
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5b1df78a4d36d60800000000000000
+      internalID: 7882377592992544244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_44
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 98
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26162aa956e786f0800000000000000
+      internalID: -682323545742240209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c71f490017ba0e0800000000000000
+      internalID: -2257586540883379100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc49e996484587a50800000000000000
+      internalID: 6519053388303209677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2527aca13935820800000000000000
+      internalID: 2905827927859024555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0d75a25d53d630800000000000000
+      internalID: 3950603907679194195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e445cf22fea543f0800000000000000
+      internalID: -917134593893251867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e9c52927c70c40800000000000000
+      internalID: 5478566451261073781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f678f386cd5810800000000000000
+      internalID: 1755777699855922250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b085db32efc8ba230800000000000000
+      internalID: 3651166946063112203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_healer_53
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d3d18838fd7850800000000000000
+      internalID: 6376525569006490131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

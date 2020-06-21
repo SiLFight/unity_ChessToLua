@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: a15bff8ab2bf862459a830a366e52b5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7411894444040006726
+    second: enemy_dps_0
+  - first:
+      213: -6401676231214555069
+    second: enemy_dps_1
+  - first:
+      213: 2851967308173190067
+    second: enemy_dps_2
+  - first:
+      213: -649746978503364822
+    second: enemy_dps_3
+  - first:
+      213: -7369832918289840249
+    second: enemy_dps_4
+  - first:
+      213: 8581522050945453324
+    second: enemy_dps_5
+  - first:
+      213: -4729671428974798991
+    second: enemy_dps_6
+  - first:
+      213: -551448593772316178
+    second: enemy_dps_7
+  - first:
+      213: -1958883630494442031
+    second: enemy_dps_8
+  - first:
+      213: -3448834421647120889
+    second: enemy_dps_9
+  - first:
+      213: 6658142813188036294
+    second: enemy_dps_10
+  - first:
+      213: 1503660903311289142
+    second: enemy_dps_11
+  - first:
+      213: 5505985953443724975
+    second: enemy_dps_12
+  - first:
+      213: 1278628168454805856
+    second: enemy_dps_13
+  - first:
+      213: -7884149550932671823
+    second: enemy_dps_14
+  - first:
+      213: -3981929150408348377
+    second: enemy_dps_15
+  - first:
+      213: 5758802226516886943
+    second: enemy_dps_16
+  - first:
+      213: 1082010805094957857
+    second: enemy_dps_17
+  - first:
+      213: 4178659381396514040
+    second: enemy_dps_18
+  - first:
+      213: 3665057666578460071
+    second: enemy_dps_19
+  - first:
+      213: 351783171835054964
+    second: enemy_dps_20
+  - first:
+      213: -3099494401091217046
+    second: enemy_dps_21
+  - first:
+      213: 1131704613729391706
+    second: enemy_dps_22
+  - first:
+      213: -6708131660299179903
+    second: enemy_dps_23
+  - first:
+      213: -1303880304877566868
+    second: enemy_dps_24
+  - first:
+      213: -4773163489580391126
+    second: enemy_dps_25
+  - first:
+      213: -27822150546759863
+    second: enemy_dps_26
+  - first:
+      213: -8347738744660419923
+    second: enemy_dps_27
+  - first:
+      213: 4798675632752319351
+    second: enemy_dps_28
+  - first:
+      213: -1930839096801953158
+    second: enemy_dps_29
+  - first:
+      213: -7547604262078437477
+    second: enemy_dps_30
+  - first:
+      213: -7596262940587810602
+    second: enemy_dps_31
+  - first:
+      213: 3021074501038088282
+    second: enemy_dps_32
+  - first:
+      213: 9185084433763101294
+    second: enemy_dps_33
+  - first:
+      213: 7350902390729164787
+    second: enemy_dps_34
+  - first:
+      213: 3242024116935919390
+    second: enemy_dps_35
+  - first:
+      213: 1158808893779057914
+    second: enemy_dps_36
+  - first:
+      213: 7450844700434755478
+    second: enemy_dps_37
+  - first:
+      213: 6629117738420610762
+    second: enemy_dps_38
+  - first:
+      213: -2122873570774611145
+    second: enemy_dps_39
+  - first:
+      213: 3638981894215627255
+    second: enemy_dps_40
+  - first:
+      213: 8533694578639859041
+    second: enemy_dps_41
+  - first:
+      213: 4561043352262003673
+    second: enemy_dps_42
+  - first:
+      213: 5473566777606378955
+    second: enemy_dps_43
+  - first:
+      213: 5099276881937281873
+    second: enemy_dps_44
+  - first:
+      213: 4362738545346176483
+    second: enemy_dps_45
+  - first:
+      213: -2415534030023591745
+    second: enemy_dps_46
+  - first:
+      213: 262136604536304791
+    second: enemy_dps_47
+  - first:
+      213: -9050582516154041451
+    second: enemy_dps_48
+  - first:
+      213: -41878656307058032
+    second: enemy_dps_49
+  - first:
+      213: 8758468991306462202
+    second: enemy_dps_50
+  - first:
+      213: 6906430180902210344
+    second: enemy_dps_51
+  - first:
+      213: 1244497360754760052
+    second: enemy_dps_52
+  - first:
+      213: -2222273402569570519
+    second: enemy_dps_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_dps_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 483
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3dd46e549a32990800000000000000
+      internalID: -7411894444040006726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 483
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340256f926da827a0800000000000000
+      internalID: -6401676231214555069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 483
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a0ba0829349720800000000000000
+      internalID: 2851967308173190067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 483
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6c68c092abf6f0800000000000000
+      internalID: -649746978503364822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 483
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878a53020819b990800000000000000
+      internalID: -7369832918289840249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 483
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d09c6a6d0b71770800000000000000
+      internalID: 8581522050945453324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 483
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17794abe4e4dc5eb0800000000000000
+      internalID: -4729671428974798991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 483
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9ff48fc6cd858f0800000000000000
+      internalID: -551448593772316178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 483
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1d0877b5a0d4e0800000000000000
+      internalID: -1958883630494442031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 387
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066590cd574320d0800000000000000
+      internalID: -3448834421647120889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 387
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c694ebbc99766c50800000000000000
+      internalID: 6658142813188036294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 387
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b2384ff931ed410800000000000000
+      internalID: 1503660903311289142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 387
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebd4d7d01396c40800000000000000
+      internalID: 5505985953443724975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 387
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699e847b899eb110800000000000000
+      internalID: 1278628168454805856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 387
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24a9461cfd59290800000000000000
+      internalID: -7884149550932671823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 387
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d232de8885db8c0800000000000000
+      internalID: -3981929150408348377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_16
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 387
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9584431d106bef40800000000000000
+      internalID: 5758802226516886943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_17
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 387
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c1d03813140f00800000000000000
+      internalID: 1082010805094957857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 291
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42e7161949df930800000000000000
+      internalID: 4178659381396514040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 291
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad2bb98786ecd230800000000000000
+      internalID: 3665057666578460071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 291
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b40335ee8c1e400800000000000000
+      internalID: 351783171835054964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 291
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6955a793426cf4d0800000000000000
+      internalID: -3099494401091217046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d204a95f94bf00800000000000000
+      internalID: 1131704613729391706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 291
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e051dbcde7e2a0800000000000000
+      internalID: -6708131660299179903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_24
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 289
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64052e55cfa7ede0800000000000000
+      internalID: -1303880304877566868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 289
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2562b4781152cdb0800000000000000
+      internalID: -4773163489580391126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_26
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 289
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd5c7c6e72d9ff0800000000000000
+      internalID: -27822150546759863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 195
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa10c607dfd62c80800000000000000
+      internalID: -8347738744660419923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 195
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b56824012589240800000000000000
+      internalID: 4798675632752319351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 195
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afeac42184435e0800000000000000
+      internalID: -1930839096801953158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_30
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 195
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97279d99e5814790800000000000000
+      internalID: -7547604262078437477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 195
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0accd2a17a49690800000000000000
+      internalID: -7596262940587810602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 195
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ad5a90430de920800000000000000
+      internalID: 3021074501038088282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_33
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 193
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6b6ab0a9f77f70800000000000000
+      internalID: 9185084433763101294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_34
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 193
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74bf117c6a30660800000000000000
+      internalID: 7350902390729164787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 193
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170733e1cbfdfc20800000000000000
+      internalID: 3242024116935919390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc934c9c8ae41010800000000000000
+      internalID: 1158808893779057914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe30e57c7b66760800000000000000
+      internalID: 7450844700434755478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 99
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62dc4e57b5ffb50800000000000000
+      internalID: 6629117738420610762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b0aee1cb90a82e0800000000000000
+      internalID: -2122873570774611145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_40
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 99
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fccca0c2408230800000000000000
+      internalID: 3638981894215627255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 99
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d618d7106cd6670800000000000000
+      internalID: 8533694578639859041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 97
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbcbb073c41c4f30800000000000000
+      internalID: 4561043352262003673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_43
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 97
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc59b99ebf306fb40800000000000000
+      internalID: 5473566777606378955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_44
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 97
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153bb379e4544c640800000000000000
+      internalID: 5099276881937281873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5634b979f8b8c30800000000000000
+      internalID: 4362738545346176483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_46
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb87395099c4a7ed0800000000000000
+      internalID: -2415534030023591745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794730c5adb43a300800000000000000
+      internalID: 262136604536304791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_48
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf642572fd56280800000000000000
+      internalID: -9050582516154041451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa52f75973b6ff0800000000000000
+      internalID: -41878656307058032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_50
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3781ba4255c8970800000000000000
+      internalID: 8758468991306462202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b86be58a198df50800000000000000
+      internalID: 6906430180902210344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_52
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479d2b781c7554110800000000000000
+      internalID: 1244497360754760052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_dps_53
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ca0e4d16e821e0800000000000000
+      internalID: -2222273402569570519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

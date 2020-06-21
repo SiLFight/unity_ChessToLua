@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 32b6b0898e0a34149b35d8c1ea24f254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -895440080890357846
+    second: 2_DF_Actor3_0
+  - first:
+      213: -3278313547557411492
+    second: 2_DF_Actor3_1
+  - first:
+      213: -4308179546757168882
+    second: 2_DF_Actor3_2
+  - first:
+      213: 3911598194219646444
+    second: 2_DF_Actor3_3
+  - first:
+      213: 8310665959169722426
+    second: 2_DF_Actor3_4
+  - first:
+      213: 1380860910508756796
+    second: 2_DF_Actor3_5
+  - first:
+      213: 7893127609764011974
+    second: 2_DF_Actor3_6
+  - first:
+      213: -1231250258021253483
+    second: 2_DF_Actor3_7
+  - first:
+      213: -8181845116145031384
+    second: 2_DF_Actor3_8
+  - first:
+      213: 5176260601663234769
+    second: 2_DF_Actor3_9
+  - first:
+      213: 6830167696548988121
+    second: 2_DF_Actor3_10
+  - first:
+      213: -9040437823767533913
+    second: 2_DF_Actor3_11
+  - first:
+      213: 445624375162932052
+    second: 2_DF_Actor3_12
+  - first:
+      213: -1153131642566021585
+    second: 2_DF_Actor3_13
+  - first:
+      213: 1165702852994352774
+    second: 2_DF_Actor3_14
+  - first:
+      213: 6594074838945573009
+    second: 2_DF_Actor3_15
+  - first:
+      213: 5043088780144801923
+    second: 2_DF_Actor3_16
+  - first:
+      213: 3043964540573465814
+    second: 2_DF_Actor3_17
+  - first:
+      213: 3983198870897433417
+    second: 2_DF_Actor3_18
+  - first:
+      213: -5332332051623036438
+    second: 2_DF_Actor3_19
+  - first:
+      213: 1415596069909354389
+    second: 2_DF_Actor3_20
+  - first:
+      213: 6703490585643747931
+    second: 2_DF_Actor3_21
+  - first:
+      213: -5247726586883619393
+    second: 2_DF_Actor3_22
+  - first:
+      213: 4700339036776700121
+    second: 2_DF_Actor3_23
+  - first:
+      213: -8835791074374863826
+    second: 2_DF_Actor3_24
+  - first:
+      213: 2150195646229271651
+    second: 2_DF_Actor3_25
+  - first:
+      213: -7054266537394652679
+    second: 2_DF_Actor3_26
+  - first:
+      213: 5441540311093331893
+    second: 2_DF_Actor3_27
+  - first:
+      213: 7911570729713675503
+    second: 2_DF_Actor3_28
+  - first:
+      213: 4570656754607725073
+    second: 2_DF_Actor3_29
+  - first:
+      213: -5886039443920218054
+    second: 2_DF_Actor3_30
+  - first:
+      213: -7990218969538767655
+    second: 2_DF_Actor3_31
+  - first:
+      213: 5621645366352571349
+    second: 2_DF_Actor3_32
+  - first:
+      213: 7504853046088959033
+    second: 2_DF_Actor3_33
+  - first:
+      213: -2213758829443269278
+    second: 2_DF_Actor3_34
+  - first:
+      213: 6411649017633757824
+    second: 2_DF_Actor3_35
+  - first:
+      213: 5614684477891194277
+    second: 2_DF_Actor3_36
+  - first:
+      213: -8142754683360006708
+    second: 2_DF_Actor3_37
+  - first:
+      213: -6245203645230725203
+    second: palyer_master_0
+  - first:
+      213: -1396850374702835569
+    second: palyer_master_1
+  - first:
+      213: 567345757599624589
+    second: palyer_master_2
+  - first:
+      213: -2572329241820640966
+    second: palyer_master_3
+  - first:
+      213: -5233941706006165964
+    second: palyer_master_4
+  - first:
+      213: -4610708944338833316
+    second: palyer_master_5
+  - first:
+      213: -318131274348008212
+    second: palyer_master_6
+  - first:
+      213: 6355692440126279388
+    second: palyer_master_7
+  - first:
+      213: 8684251172785589932
+    second: palyer_master_8
+  - first:
+      213: -2051550994112912547
+    second: palyer_master_9
+  - first:
+      213: 2930053175498389423
+    second: palyer_master_10
+  - first:
+      213: -1045067293269854182
+    second: palyer_master_11
+  - first:
+      213: 4969616343901249765
+    second: palyer_master_12
+  - first:
+      213: -1137091971963999019
+    second: palyer_master_13
+  - first:
+      213: -2961769732496227624
+    second: palyer_master_14
+  - first:
+      213: -1510663585429801076
+    second: palyer_master_15
+  - first:
+      213: -2634694532349574747
+    second: palyer_master_16
+  - first:
+      213: -7231762507282221078
+    second: palyer_master_17
+  - first:
+      213: 8615329263324339278
+    second: palyer_master_18
+  - first:
+      213: -5375803149508635967
+    second: palyer_master_19
+  - first:
+      213: -7179609499514416516
+    second: palyer_master_20
+  - first:
+      213: 8130776292223272713
+    second: palyer_master_21
+  - first:
+      213: -6190139573897204907
+    second: palyer_master_22
+  - first:
+      213: 6559848429722950203
+    second: palyer_master_23
+  - first:
+      213: -1682670578512769179
+    second: palyer_master_24
+  - first:
+      213: -1007145054738951983
+    second: palyer_master_25
+  - first:
+      213: 6345295192034645867
+    second: palyer_master_26
+  - first:
+      213: 3619949833322486499
+    second: palyer_master_27
+  - first:
+      213: -2624129032879889321
+    second: palyer_master_28
+  - first:
+      213: 5842141433980976982
+    second: palyer_master_29
+  - first:
+      213: -7002674234171517827
+    second: palyer_master_30
+  - first:
+      213: 4196837537258785937
+    second: palyer_master_31
+  - first:
+      213: 408348932557228397
+    second: palyer_master_32
+  - first:
+      213: -5273703365773217926
+    second: palyer_master_33
+  - first:
+      213: -1864330988688657074
+    second: palyer_master_34
+  - first:
+      213: 3066105330922701711
+    second: palyer_master_35
+  - first:
+      213: -4599297177058869190
+    second: palyer_master_36
+  - first:
+      213: -4504452077579179893
+    second: palyer_master_37
+  - first:
+      213: 4963297287931936718
+    second: palyer_master_0
+  - first:
+      213: 1614226569634754667
+    second: palyer_master_1
+  - first:
+      213: 3081675099318052745
+    second: palyer_master_2
+  - first:
+      213: -8278584269570018777
+    second: palyer_master_3
+  - first:
+      213: 7723973666385421073
+    second: palyer_master_4
+  - first:
+      213: 4281013780284468861
+    second: palyer_master_5
+  - first:
+      213: -727072360604538884
+    second: palyer_master_6
+  - first:
+      213: -3789881570386781654
+    second: palyer_master_7
+  - first:
+      213: -2454654779079895578
+    second: palyer_master_8
+  - first:
+      213: 548640666788885857
+    second: palyer_master_9
+  - first:
+      213: 6867332940027850619
+    second: palyer_master_10
+  - first:
+      213: -2578001619591121968
+    second: palyer_master_11
+  - first:
+      213: -8043695639029069979
+    second: palyer_master_12
+  - first:
+      213: 625022822862393185
+    second: palyer_master_13
+  - first:
+      213: -8275105008636658845
+    second: palyer_master_14
+  - first:
+      213: -5726109495711270013
+    second: palyer_master_15
+  - first:
+      213: 262345541791813726
+    second: palyer_master_16
+  - first:
+      213: -7013210893514295472
+    second: palyer_master_17
+  - first:
+      213: -808245237582531281
+    second: palyer_master_18
+  - first:
+      213: -2908453715544118950
+    second: palyer_master_19
+  - first:
+      213: -8043389578134004336
+    second: palyer_master_20
+  - first:
+      213: 7146729037183491456
+    second: palyer_master_21
+  - first:
+      213: 6647928637290807794
+    second: palyer_master_22
+  - first:
+      213: 2075941442720942676
+    second: palyer_master_23
+  - first:
+      213: -6966348437788496266
+    second: palyer_master_24
+  - first:
+      213: -2492917043734590155
+    second: palyer_master_25
+  - first:
+      213: -232143136062043573
+    second: palyer_master_26
+  - first:
+      213: -2159184053192234115
+    second: palyer_master_27
+  - first:
+      213: -5706680403865033036
+    second: palyer_master_28
+  - first:
+      213: -5057591791740250438
+    second: palyer_master_29
+  - first:
+      213: -5022377863999640970
+    second: palyer_master_30
+  - first:
+      213: -1870400246540429297
+    second: palyer_master_31
+  - first:
+      213: 1611262706327904677
+    second: palyer_master_32
+  - first:
+      213: -3155209392356580128
+    second: palyer_master_33
+  - first:
+      213: 5193286202351811996
+    second: palyer_master_34
+  - first:
+      213: -2280361676313608279
+    second: palyer_master_35
+  - first:
+      213: 6505042502370110893
+    second: palyer_master_36
+  - first:
+      213: -6884339402174489108
+    second: palyer_master_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: palyer_master_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb7d1369c21e440800000000000000
+      internalID: 4963297287931936718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 320
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b3163382e66610800000000000000
+      internalID: 1614226569634754667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 320
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e408ec2f44ca20800000000000000
+      internalID: 3081675099318052745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7227429f77f8c1d80800000000000000
+      internalID: -8278584269570018777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ef5f4021113b60800000000000000
+      internalID: 7723973666385421073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e6864f957396b30800000000000000
+      internalID: 4281013780284468861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 320
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7692c4a8be8e5f0800000000000000
+      internalID: -727072360604538884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2adb489ac2a76bc0800000000000000
+      internalID: -3789881570386781654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 57
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55ab6db705fedd0800000000000000
+      internalID: -2454654779079895578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 192
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f84597c92d9700800000000000000
+      internalID: 548640666788885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe2bc9ceaad4f50800000000000000
+      internalID: 6867332940027850619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b3e19f29193cd0800000000000000
+      internalID: -2578001619591121968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 256
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56740520f6d0f5090800000000000000
+      internalID: -8043695639029069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f893522f68ca800800000000000000
+      internalID: 625022822862393185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf72986dbe82d80800000000000000
+      internalID: -8275105008636658845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 256
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b732b70c5c880b0800000000000000
+      internalID: -5726109495711270013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 192
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5098ea51e904a300800000000000000
+      internalID: 262345541791813726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0573e2599d11cae90800000000000000
+      internalID: -7013210893514295472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 192
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25fd7a1d3988c4f0800000000000000
+      internalID: -808245237582531281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 192
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e35f51c813a7d0800000000000000
+      internalID: -2908453715544118950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 192
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5e3d5bc3206090800000000000000
+      internalID: -8043389578134004336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_21
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 192
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d9a4fb1384e2360800000000000000
+      internalID: 7146729037183491456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f18dd59fdf224c50800000000000000
+      internalID: 6647928637290807794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac4eb4eb93fcc10800000000000000
+      internalID: 2075941442720942676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 128
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee400510f825f90800000000000000
+      internalID: -6966348437788496266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 52
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dcea12821676dd0800000000000000
+      internalID: -2492917043734590155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 128
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0af53c0347ccf0800000000000000
+      internalID: -232143136062043573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 128
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be9c02b890902e0800000000000000
+      internalID: -2159184053192234115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 128
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b621f0786ccdc0b0800000000000000
+      internalID: -5706680403865033036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6146acf03dfc9b0800000000000000
+      internalID: -5057591791740250438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a248041fdec4ab0800000000000000
+      internalID: -5022377863999640970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 50
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089725b2e00b06e0800000000000000
+      internalID: -1870400246540429297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 64
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1628205ea5c5610800000000000000
+      internalID: 1611262706327904677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e42c9056c17634d0800000000000000
+      internalID: -3155209392356580128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 64
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dfd1c2942421840800000000000000
+      internalID: 5193286202351811996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb9e323278a50e0800000000000000
+      internalID: -2280361676313608279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada692d0bd864a50800000000000000
+      internalID: 6505042502370110893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: palyer_master_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1a2cd9c9e570a0800000000000000
+      internalID: -6884339402174489108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
